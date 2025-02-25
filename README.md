@@ -16,7 +16,7 @@
 ## 🔹 Проект: API для страхования домашних животных в LUCKY
 📌 **Описание:** Описание: Спроектировано API для оформления страховки домашних животных. Создана документация.
 # 🛠 **Стек:** Swagger, Draw.io  
-📎 [Swagger](https://app.swaggerhub.com/apis/pdv1001/dz2/1.0.1)
+# 📎 [Swagger](https://app.swaggerhub.com/apis/pdv1001/dz2/1.0.1)
 📎 [Draw.io](https://drive.google.com/file/d/1_Ysiibja0vLReAFLsBNJDtIBM_DYLus9/view?usp=sharing)
 📎 [Моделирование профиля API](https://docs.google.com/document/d/17UZaxn-uXRXQSEugITU4xVLCFm4acaHznKkaT4XFlOs/edit?usp=sharing)
 ---
