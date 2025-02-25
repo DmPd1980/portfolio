@@ -13,7 +13,7 @@
 📎 [Draw.io](https://drive.google.com/file/d/1gqT5zrLzjXeFtcBtAZ5f09PpfcD0izZ-/view?usp=sharing=drive_link)
 📎 [Шаблон задачи на разработку (проект)](https://docs.google.com/document/d/1PfHHCawxsDJNgRoEjpdre7mC5jwwmcPw/edit?usp=sharing&ouid=117938446731862945970&rtpof=true&sd=true=drive_link)
 
-## 🔹 Проект: API для страхования домашних животных в LUCKY
+## 🔹 Проект 3: API для страхования домашних животных в LUCKY
 ### 📌 **Описание:** Описание: Спроектировано API для оформления страховки домашних животных. Создана документация.
 ## 🛠 **Стек:** Swagger, Draw.io  
 📎 [Swagger](https://app.swaggerhub.com/apis/pdv1001/dz2/1.0.1)
